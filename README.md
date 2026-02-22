@@ -1,5 +1,5 @@
 <h1 align="left">👋 Hi there</h1>
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blue&style=for-the-badge)
 
 <p>
 I am a <strong>Full Stack Web Developer</strong> focused on building modern, responsive, and scalable web applications.
