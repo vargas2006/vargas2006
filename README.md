@@ -46,11 +46,11 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 # 📊 GitHub Stats
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api?username=vargas2006&show_icons=true&theme=dark">
 </p>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargas2006&layout=compact&theme=dark">
 </p>
 
 ---
