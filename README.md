@@ -1,21 +1,64 @@
-<head>
-  <style>
-    h1 {
-      background-color: red;
-    }
-    
-  </style>
-</head>
+<h1 align="left">👋 Hi there</h1>
 
-<h1 align="center">Hi 👋, I'm vargas</h1>
-<h3 align="center">A passionate frontend developer from Philippines.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vargas2006&label=Profile%20views&color=0e75b6&style=flat" alt="vargas2006" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://discord.gg/airplane_12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="airplane_12" height="30" width="40" /></a>
+<p>
+I am a <strong>Full Stack Web Developer</strong> focused on building modern, responsive, and scalable web applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+<p>
+My core stack revolves around <strong>HTML, CSS, JavaScript, PHP, Laravel, and MySQL</strong>.
+I enjoy turning ideas into clean, efficient, and production-ready web systems.
+</p>
+
+<br>
+
+> “First, solve the problem. Then, write the code.” — John Johnson  
+>
+> “Programs must be written for people to read.” — Harold Abelson  
+
+---
+
+# 🖥️ Tech Stack
+
+### 🚀 Core Stack (Daily Use)
+
+<p>
+<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3">
+<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
+<img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php">
+<img src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel">
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
+</p>
+
+---
+
+# 🛠 What I Build
+
+- 🔹 Dynamic Web Applications  
+- 🔹 CRUD Systems 
+
+---
+
+# 📊 GitHub Stats
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark">
+</p>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark">
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p>
+<a href="johnleevargas25@gmail.com">
+<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail">
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
+</a>
+</p>
