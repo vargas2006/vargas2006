@@ -1,3 +1,12 @@
+<head>
+  <style>
+    h1 {
+      background-color: red;
+    }
+    
+  </style>
+</head>
+
 <h1 align="center">Hi 👋, I'm vargas</h1>
 <h3 align="center">A passionate frontend developer from Philippines.</h3>
 
