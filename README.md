@@ -12,9 +12,12 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 
 <br>
 
-> “First, solve the problem. Then, write the code.” — John Johnson  
+>“Talk is cheap. Show me the code.” — Linus Torvalds
 >
-> “Programs must be written for people to read.” — Harold Abelson  
+>“Don’t compare yourself with anyone in this world. If you do so, you are insulting yourself.” — Bill Gates
+>
+>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
+
 
 ---
 
