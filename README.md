@@ -58,7 +58,7 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 # 📫 Connect With Me
 
 <p>
-<a href="johnleevargas25@gmail.com">
+<a href="mailto:johnleevargas25@gmail.com">
 <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail">
 </a>
 
@@ -66,3 +66,9 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
 </a>
 </p>
+
+<p>
+<a href="mailto:johnleevargas25@gmail.com">
+<img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=gmail">
+</a>
+
