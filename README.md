@@ -59,16 +59,16 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 
 <p>
 <a href="mailto:johnleevargas25@gmail.com">
+<img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=gmail">
+</a>
+<a href="mailto:johnleevargas25@gmail.com">
 <img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail">
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINK">
 <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
 </a>
-</p>
 
-<p>
-<a href="mailto:johnleevargas25@gmail.com">
-<img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=gmail">
-</a>
+
+</p>
 
