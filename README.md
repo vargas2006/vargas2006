@@ -72,4 +72,8 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 
 </p>
 ---
-https://lanyard.cnrad.dev/api/1444830698115698718
+## 📌 Discord Live Presence
+
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/1444830698115698718?bg=1f1f1f&borderRadius=20px&idleMessage=I'm+not+currently+doing+anything!&showDisplayName=true&animated=true&theme=dark"/>
+</p>
