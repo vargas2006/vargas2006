@@ -74,5 +74,5 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 ---
 [## 📌 Discord Status
 
-<img src="https://lanyard.cnrad.dev/api/1444830698115698718?borderRadius=20px&idleMessage=Idle..." />](https://lanyard.cnrad.dev/api/1444830698115698718)
-
+[<img src="https://lanyard.cnrad.dev/api/1444830698115698718?borderRadius=20px&idleMessage=Idle..." />](https://lanyard.cnrad.dev/api/1444830698115698718)
+](https://lanyard.cnrad.dev/api/1444830698115698718?animated=true&borderRadius=20px&idleMessage=Idle...)
