@@ -1,78 +1,64 @@
-<h1 align="left">👋 Hi there</h1>
-<img src="https://komarev.com/ghpvc/?username=vargas2006&color=blue&style=for-the-badge" />
-
-<p>
-I am a <strong>Full Stack Web Developer</strong> focused on building modern, responsive, and scalable web applications.
-</p>
-
-<p>
-My core stack revolves around <strong>HTML, CSS, JavaScript, PHP, Laravel, and MySQL</strong>.
-I enjoy turning ideas into clean, efficient, and production-ready web systems.
-</p>
-
-<br>
-
->“Talk is cheap. Show me the code.” — Linus Torvalds
->
->“Don’t compare yourself with anyone in this world. If you do so, you are insulting yourself.” — Bill Gates
->
->“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.” — Martin Fowler
-
-
----
-
-# 🖥️ Tech Stack
-
-### 🚀 Core Stack (Daily Use)
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
-<img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3">
-<img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php">
-<img src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel">
-<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
+<!-- HERO SECTION -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=30&duration=3500&pause=600&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Full+Stack+Developer;Crafting+High+Performance+Web+Systems;Clean+Architecture+%7C+Scalable+Design+%7C+Modern+UI" />
 </p>
 
 ---
 
-# 🛠 What I Build
+## 🌌 Developer Identity
 
-- 🔹 Dynamic Web Applications  
-- 🔹 CRUD Systems 
+I am a **Full Stack Web Developer** specializing in building production-level web applications.
 
----
-
-# 📊 GitHub Stats
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=vargas2006&show_icons=true&theme=dark">
-</p>
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargas2006&layout=compact&theme=dark">
-</p>
+My development philosophy follows modern software engineering standards inspired by industry experts.
 
 ---
 
-# 📫 Connect With Me
+## 🧠 Programming Mindset
 
-<p>
-<a href="carchase_12">
-<img src="https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=gmail">
-</a>
-<a href="mailto:johnleevargas25@gmail.com">
-<img src="https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail">
-</a>
+> "Any fool can write code that a computer can understand.  
+> Good programmers write code that humans can understand."  
+> — :contentReference[oaicite:1]{index=1}  
 
-<a href="https://linkedin.com/in/YOUR_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin">
-</a>
+> "Talk is cheap. Show me the code."  
+> — :contentReference[oaicite:2]{index=2}  
 
-
-</p>
 ---
-[## 📌 Discord Status
 
-<img src="https://lanyard.cnrad.dev/api/1444830698115698718?borderRadius=20px&idleMessage=Idle..." />](https://lanyard.cnrad.dev/api/1444830698115698718)
+## ⚡ Core Technology Mastery
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,bootstrap,tailwind" />
+</p>
+
+---
+
+## 🏗 System Development Focus
+
+✅ High Performance Backend Logic  
+✅ Responsive Frontend Engineering  
+✅ Database Optimization  
+✅ Clean Code Architecture  
+✅ Scalable Web Systems  
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=vargas2006&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vargas2006&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🎧 Discord Live Presence
+
+👉 Requires integration with :contentReference[oaicite:3]{index=3}.
+
+```html
+<p align="center">
+<img src="https://lanyard.cnrad.dev/api/1444830698115698718?borderRadius=25px&idleMessage=Developer+is+coding...&showDisplayName=true"/>
+</p>
