@@ -72,3 +72,7 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 
 </p>
 
+## Discord Status
+
+![Discord](https://discord.com/widget?id=SERVER_ID&theme=dark)
+
