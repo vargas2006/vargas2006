@@ -30,7 +30,7 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3">
 <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
 <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=react">
+<img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react">
 </p>
 
 ---
