@@ -6,7 +6,7 @@ I am a <strong>Full Stack Web Developer</strong> focused on building modern, res
 </p>
 
 <p>
-My core stack revolves around <strong>HTML, CSS, JavaScript, PHP, Laravel, and MySQL</strong>.
+My core stack revolves around <strong>HTML, CSS, JavaScript, React and MySQL</strong>, currently im still expanding my knowledge.
 I enjoy turning ideas into clean, efficient, and production-ready web systems.
 </p>
 
