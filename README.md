@@ -29,9 +29,8 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5">
 <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3">
 <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php">
-<img src="https://img.shields.io/badge/Laravel-000?style=for-the-badge&logo=laravel">
 <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql">
+<img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=react">
 </p>
 
 ---
