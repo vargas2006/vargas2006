@@ -1,6 +1,5 @@
-<h1 align="left">👋 Hi there</h1>
-<p>Challange: daily drop on my repository</p>
-<img src="https://komarev.com/ghpvc/?username=vargas2006&color=blue&style=for-the-badge" />
+<h1 align="left">👋 Hi there</h1> <p>Challange: daily drop on my repository</p>
+
 
 <p>
 I am a <strong>Full Stack Web Developer</strong> focused on building modern, responsive, and scalable web applications.
