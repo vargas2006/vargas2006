@@ -2,7 +2,7 @@
 
 
 <p>
-I am a <strong>Full Stack Web Developer</strong> focused on building modern, responsive, and scalable web applications.
+I am a <strong>Front end dev</strong> focused on building modern, responsive, and scalable web applications.
 </p>
 
 <p>
