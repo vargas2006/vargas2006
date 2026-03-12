@@ -2,7 +2,7 @@
 
 
 <p>
-I am a <strong>Front end dev</strong> focused on building modern, responsive, and scalable web applications, here's my <a href="https://vrgsportfolio.netlify.app/">portfolio</a>
+I am a <strong>Front end dev</strong> focused on building modern, responsive, and scalable web applications, here's my <a href="https://vrgsportfolio.netlify.app/">portfolio</a>.
 </p>
 
 <p>
