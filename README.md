@@ -1,5 +1,4 @@
-<h1 align="left">👋 Hi there</h1>
-PORTFOLIO:<a "href=" https://vrgsportfolio.netlify.app/" >HERE</a><p>Challange: daily drop on my repository</p>
+<h1 align="left">👋 Hi there</h1><a "href="https://vrgsportfolio.netlify.app/" >PORTFOLIO</a>
 
 
 <p>
