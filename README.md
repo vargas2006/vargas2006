@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi there</h1><a href="https://vrgsportfolio.netlify.app/">PORTFOLIO</a><p>Challange: daily drop on my repository</p>
+<h1 align="left">👋 Hi there</h1><a href="https://vrgsportfolio.netlify.app/" style="text-decoration: none;">PORTFOLIO</a><p>Challange: daily drop on my repository</p>
 
 
 <p>
