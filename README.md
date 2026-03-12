@@ -1,4 +1,4 @@
-<h1 align="left">👋 Hi there</h1><a "href="https://vrgsportfolio.netlify.app/" >PORTFOLIO</a>
+<h1 align="left">👋 Hi there</h1>
 
 
 <p>
