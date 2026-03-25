@@ -2,11 +2,11 @@
 
 
 <p>
-I am a <strong>Front end dev</strong> focused on building modern, responsive, and scalable web applications, here's my <a href="https://vrgsportfolio.netlify.app/" target="_blank">portfolio</a>.
+I am a <strong>Full stack web dev</strong> focused on building modern, responsive, and scalable web applications, here's my <a href="https://vrgsportfolio.netlify.app/" target="_blank">portfolio</a>.
 </p>
 
 <p>
-My core stack revolves around <strong>HTML, CSS, JavaScript, React and MySQL</strong>, currently im still expanding my knowledge.
+My core stack revolves around <strong>HTML, CSS, JavaScript, MERN </strong>, currently im still expanding my knowledge.
 I enjoy turning ideas into clean, efficient, and production-ready web systems.
 </p>
 
