@@ -62,3 +62,9 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 
 </p>
 
+---
+
+<p>
+  <img src="https://lanyard.cnrad.dev/api/1444830698115698718?theme=dark&animated=true" />
+</p>
+
