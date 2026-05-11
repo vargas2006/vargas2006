@@ -2,7 +2,8 @@
 
 
 <p>
-I am a <strong>Full stack web dev</strong> focused on building modern, responsive, and scalable web applications, here's my <a href="https://vrgsportfolio.netlify.app/" target="_blank">portfolio</a>.
+I am a <strong>Full stack web dev</strong> focused on building modern, responsive, and scalable web applications, here's my <a href="https://vrgsportfolio.netlify.app/" target="_blank">portfolio</a> .
+<a href="https://guns.lol/unonezz" target="_blank">other</a>
 </p>
 
 <p>
