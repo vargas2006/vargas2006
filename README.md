@@ -65,5 +65,6 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 ---
 
 <p align="center">
-  <img src="https://lanyard.cnrad.dev/api/1444830698115698718?theme=dark&animated=true&hideDiscrim=true&borderRadius=12px" />
+  [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:1444830698115698718)
+
 </p>
