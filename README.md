@@ -65,6 +65,6 @@ I enjoy turning ideas into clean, efficient, and production-ready web systems.
 ---
 
 <p align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:1444830698115698718)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1444830698115698718)](https://discord.com/users/1444830698115698718)
 
 </p>
