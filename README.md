@@ -7,7 +7,7 @@ I am a <strong>Full stack web dev</strong> focused on building modern, responsiv
 </p>
 
 <p>
-My core stack revolves around <strong>HTML, CSS, JavaScript, MERN </strong>, currently im still expanding my knowledge.s
+My core stack revolves around <strong>HTML, CSS, JavaScript, MERN </strong>, currently im still expanding my knowledges
 I enjoy turning ideas into clean, efficient, and production-ready web systems.
 </p>
 
