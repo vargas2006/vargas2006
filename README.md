@@ -1,4 +1,4 @@
-```markdown
+
 <h1 align="left">👋 Hi there</h1>
 
 <p>
@@ -91,4 +91,4 @@ My core stack revolves around <strong>HTML, CSS, JavaScript, TypeScript, and the
     />
   </a>
 </p>
-```
+
