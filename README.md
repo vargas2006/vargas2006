@@ -29,7 +29,6 @@ My core stack revolves around <strong>HTML, CSS, JavaScript, TypeScript, and the
   <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6">
   <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933">
   <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express&logoColor=FFFFFF">
 </p>
 
@@ -44,6 +43,7 @@ My core stack revolves around <strong>HTML, CSS, JavaScript, TypeScript, and the
 
 <p>
   <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=F05032">
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=339933">
   <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=FFFFFF">
   <img src="https://img.shields.io/badge/VS_Code-000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC">
   <img src="https://img.shields.io/badge/Postman-000?style=for-the-badge&logo=postman&logoColor=FF6C37">
