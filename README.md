@@ -37,6 +37,7 @@ My core stack revolves around <strong>HTML, CSS, JavaScript, TypeScript, and the
 <p>
   <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb&logoColor=47A248">
   <img src="https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql&logoColor=4479A1">
+  <img src="https://img.shields.io/badge/Postgresql-000?style=for-the-badge&logo=mysql&logoColor=4479A1">
 </p>
 
 ### 🛠️ Tools & Technologies
