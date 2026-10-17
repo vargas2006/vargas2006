@@ -58,11 +58,11 @@ My core stack revolves around <strong>HTML, CSS, JavaScript, TypeScript, and the
 
 # 🛠 What I Build
 
-- 🔹 Dynamic Web Applications
-- 🔹 CRUD Systems
-- 🔹 RESTful APIs
-- 🔹 Responsive Landing Pages
-- 🔹 Full Stack MERN Applications
+- 🔹 Dynamic Web Applications.
+- 🔹 CRUD Systems.
+- 🔹 RESTful APIs.
+- 🔹 Responsive Landing Pages.
+- 🔹 Full Stack MERN Applications.
 
 ---
 
